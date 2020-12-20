@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603550862 source:c:\users\salahdin\desktop\alienlanguagev2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
